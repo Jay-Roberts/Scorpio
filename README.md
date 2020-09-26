@@ -1,2 +1,2 @@
-# Scorpio
-Second Order Optimization for Adversarial Robustness and Interpretability
+# Second Order Optimization for Adversarial Robustness and Interpretability
+Scorpio regularizer
