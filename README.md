@@ -1,5 +1,5 @@
 # Second Order Optimization for Adversarial Robustness and Interpretability
-Repository based on arXiv preprint https://arxiv.org/abs/2009.04923
+Repository based on arXiv preprint https://arxiv.org/abs/2009.04923.
 
 ## Prerequisites
 * PyTorch 1.3.0
